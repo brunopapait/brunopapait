@@ -1,12 +1,12 @@
 ## Hello, how are you ? 👋
 
 ## About me
-- 😄 I’m Bruno Henrique Papait
-- 🌱 I’m from Paraná - Brazil
-- 🔭 I’m junior Systems Analyst at AJ Rorato
-- 📫 I’m graduated in systems analysis and development at Centro Universitário Integrado - PR
-- 😄 Studying a postgraduate course in Java technology at the Federal Technological University of Paraná UTFPR
-- ⚡ Currently working with Java, React and React Native
+- 🖐️ I’m Bruno Henrique Papait
+- 🇧🇷 I’m from Paraná - Brazil
+- 👨‍💻 I’m junior Systems Analyst at AJ Rorato
+- 📘 I’m graduated in systems analysis and development at Centro Universitário Integrado - PR
+- 📖 Studying a postgraduate course in Java technology at the Federal Technological University of Paraná UTFPR
+- 💡 Currently working with Java, React and React Native
 
 ## Technologies in which I already had some technical contact
 <div align="left">
