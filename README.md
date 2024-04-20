@@ -6,7 +6,7 @@
 - 👨‍💻 I’m junior Systems Analyst at AJ Rorato
 - 📘 I’m graduated in systems analysis and development at Centro Universitário Integrado - PR
 - 📖 Graduate student course in Java technology at the Federal Technological University of Paraná UTFPR
-- 💡 Currently working and studying Java, React and React Native technologies
+- 💡 Currently working and studying Java with Spring boot, React and React Native technologies
 
 ## Technologies in which I already had some technical contact
 <div align="left">
