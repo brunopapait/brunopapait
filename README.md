@@ -3,7 +3,7 @@
 ## About me
 - 🖐️ I’m Bruno Henrique Papait
 - 🇧🇷 I’m from Paraná - Brazil
-- 👨‍💻 I’m junior Systems Analyst at AJ Rorato
+- 👨‍💻 I'm a developer at Spassu
 - 📘 I’m graduated in systems analysis and development at Centro Universitário Integrado - PR
 - 📖 Graduate student course in Java technology at the Federal Technological University of Paraná UTFPR
 - 💡 Currently working and studying Java with Spring boot, React and React Native technologies
